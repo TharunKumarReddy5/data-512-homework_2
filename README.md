@@ -8,7 +8,7 @@
 
 This repository contains the Homework 2 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
 
-### Research Implications
+## Research Implications
 Include write-up paragraphs. One of your paragraphs should reflect on what you have learned, what you found, what (if anything) surprised you about your findings, and/or what theories you have about why any biases might exist (if you find they exist).
 
 What biases did you expect to find in the data (before you started working with it), and why?
