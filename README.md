@@ -36,7 +36,9 @@ Install the dependencies from the requirements.txt file using
 
 ## Issues and Special Considerations
 
-The code has embedded exception handling to cover and highlight the articles for which we are not able to pull the page views information. As of now we are able to pull the information for all the dinosaur articles. Check for the comments in the code to debug the exceptions. 
+1. There are few duplicates in the politicians input data file. All the absolute duplicates are filtered from the data but the duplicates at article name level are taken into account for per-capita calculations. 
+2. There are few countries where the population is 0. This can be because the value is in millions and is rounded to the nearest decimal. These countries are filtered at Step 4 where the article-per-capita is calculated as they give infinity values because of 0 in the denominator
+3. Regions with cumulative population values are eliminated and the countries are mapped to the regions that are closest/lowest in the hierarchy of regions
 
 ## Research Implications
 
