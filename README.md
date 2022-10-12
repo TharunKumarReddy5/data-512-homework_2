@@ -8,31 +8,25 @@
 
 This repository contains the Homework 2 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
 
-## Research Implications
-Include write-up paragraphs. One of your paragraphs should reflect on what you have learned, what you found, what (if anything) surprised you about your findings, and/or what theories you have about why any biases might exist (if you find they exist).
+# Considering Bias in Data : Goal
 
-What biases did you expect to find in the data (before you started working with it), and why?
-What (potential) sources of bias did you discover in the course of your data processing and analysis?
-What might your results suggest about (English) Wikipedia as a data source?
-What might your results suggest about the internet and global society in general?
-Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?
-Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?
-How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
-
-## TO BE EDITED
-
-# Professionalism & Reproducibility : Goal
-
-data-512-homework_2 project is an analysis exercise with primary goal to learn and incorporate the best practices for project documentation, as outlined in "Assessing Reproducibility" and "The Basic Reproducible Workflow Template" from The Practice of Reproducible Research.
+data-512-homework_2 project is an analysis exercise with primary goal to understand the general biases in the models that originate from the bias in the input data used for training the model.
 
 ## Datasource Information
 
-The data for this project is extracted from the Pageviews API. The datasource endpoint is licensed under the [CC-BY-SA 3.0]( CC-BY-SA 3.0 and GFDL licenses) and [GFDL licenses](CC-BY-SA 3.0 and GFDL licenses). The Pageviews API (documentation, endpoint) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through the previous complete month. Leveraging the API, I collected the pageviews information using a subset of Wikipedia article pages from July 2015 to September 2022. Please find below the subset of the English Wikipedia that represents a large number of dinosaur related articles.
+The input data for this project is extracted from the below wikipedia (politicians wikipedia pages) and prb (population) web pages. Additionally, two more endpoints are used for page information and ORES scores. The datasource endpoints are licensed under the [CC-BY-SA 3.0]( CC-BY-SA 3.0 and GFDL licenses) and [GFDL licenses](CC-BY-SA 3.0 and GFDL licenses). ORES is a machine learning tool that can provide estimates of Wikipedia article quality. The ORES API endpoint provides the article quality estimates from best to worst:
 
- - [Pageviews API Endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)
- - [Pageviews API Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
+FA - Featured article
+GA - Good article
+B - B-class article
+C - C-class article
+Start - Start-class article
+Stub - Stub-class article
+
+ - [Politicians by Nationality](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality)
+ - [World Population](https://www.prb.org/international/indicator/population/table/)
+ - [ORES REST API](https://www.mediawiki.org/wiki/ORES)
  - [Wikimedia Foundation REST API terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
- - [Dinosaur articles](https://docs.google.com/spreadsheets/d/1zfBNKsuWOFVFTOGK8qnTr2DmHkYK4mAACBKk1sHLt_k/edit?usp=sharing)
 
 ## Dependencies
 
@@ -43,6 +37,18 @@ Install the dependencies from the requirements.txt file using
 ## Issues and Special Considerations
 
 The code has embedded exception handling to cover and highlight the articles for which we are not able to pull the page views information. As of now we are able to pull the information for all the dinosaur articles. Check for the comments in the code to debug the exceptions. 
+
+## Research Implications
+
+Include write-up paragraphs. One of your paragraphs should reflect on what you have learned, what you found, what (if anything) surprised you about your findings, and/or what theories you have about why any biases might exist (if you find they exist).
+
+What biases did you expect to find in the data (before you started working with it), and why?
+What (potential) sources of bias did you discover in the course of your data processing and analysis?
+What might your results suggest about (English) Wikipedia as a data source?
+What might your results suggest about the internet and global society in general?
+Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?
+Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?
+How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
 
 ## Repository Structure:
 Here are the main folders in our github data-512-homework_1 repository:
