@@ -17,7 +17,6 @@ data-512-homework_2 project is an analysis exercise with primary goal to underst
 The input data for this project is extracted from the below wikipedia (politicians wikipedia pages) and prb (population) web pages. Additionally, two more endpoints are used for page information and ORES scores. The datasource endpoints are licensed under the [CC-BY-SA 3.0]( CC-BY-SA 3.0 and GFDL licenses) and [GFDL licenses](CC-BY-SA 3.0 and GFDL licenses). ORES is a machine learning tool that can provide estimates of Wikipedia article quality. The ORES API endpoint provides the article quality estimates from best to worst:
 
 FA - Featured article
-
 GA - Good article
 
 B - B-class article
@@ -57,8 +56,8 @@ Can you think of a realistic data science research situation where using these d
 Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?
 How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
 
-## Repository Structure:
-Here are the main folders in our github data-512-homework_1 repository:
+## Repository Structure
+Here are the main folders in our github data-512-homework_2 repository:
 ```bash
 .
 ├── DATA 512 Homework 2 Tharun.ipynb
