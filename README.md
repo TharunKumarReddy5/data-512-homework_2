@@ -83,8 +83,8 @@ Here are the main folders in our github data-512-homework_2 repository:
 ├── requirements.txt
 ```
 ## Input Data Files
-population data (population_by_country_2022.csv) - Consists of countries, region and population for each country/region
-Politicians data (politicians_by_country.SEPT.2022.csv) - Consists of crawled Wikipedia article pages about politicians fropm wide range of countries
+- population data (population_by_country_2022.csv) - Consists of countries, region and population for each country/region
+- Politicians data (politicians_by_country.SEPT.2022.csv) - Consists of crawled Wikipedia article pages about politicians fropm wide range of countries
 
 ## Output Data Files
 
