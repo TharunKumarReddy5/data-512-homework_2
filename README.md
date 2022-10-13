@@ -8,6 +8,8 @@
 
 This repository contains the Homework 2 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
 
+Date of Code Run: 2022-10-12
+
 # Goal: Considering Bias in Data
 
 data-512-homework_2 project is an analysis exercise with primary goal to understand the general biases in the models that originate from the bias in the input data used for training the model. This short analysis on the quality of wikipedia articles of politicians based on regions gives a good clarityon how the coverage and quality of data varies among countries. It helps us understand the causes and consequences of biased data in large, complex data science projects.
