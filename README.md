@@ -49,15 +49,20 @@ Install the dependencies from the requirements.txt file using
 
 ## Research Implications
 
-Include write-up paragraphs. One of your paragraphs should reflect on what you have learned, what you found, what (if anything) surprised you about your findings, and/or what theories you have about why any biases might exist (if you find they exist).
+The key takeaway from this assignment is to understand the biases in the source data to identify any model biases and avoid any misinterpretation of findings. The bulk of online information contains some bias by nature. The biases may be caused by a variety of factors, such as demographic, gender, cultural prejudices, literacy rates etc. During the post-hoc analysis, several questions came up regarding the articles per capita, including whether it was a reliable indicator of coverage and if it was correlated with ORES ratings. Few biases in the data are evident during post-hoc investigation. There are biases found in Eastern Europe and Western Asia, having higher ranks for high quality articles as compared to total articles. The articles per capita values appear to be greatly reliant on the population of the country/region. For example, the majority of the highest coverage countries/regions also have the lowest population, and vice versa. In terms of article quality, non-native English speakers had less high-quality articles than native speakers, indicating a cultural-linguistic bias. All these inherent biases and few additional data inconsistencies made me question the reliability of the per capita calculation performed during the final steps of the exercise.
 
-What biases did you expect to find in the data (before you started working with it), and why?
-What (potential) sources of bias did you discover in the course of your data processing and analysis?
-What might your results suggest about (English) Wikipedia as a data source?
-What might your results suggest about the internet and global society in general?
-Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?
-Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?
-How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
+### What biases did you expect to find in the data (before you started working with it), and why?
+Before the exercise, I expected high bias of high quality articles towards developed countries, but the Wikipedia data is not present. There is a selection bias involved in this exercise as there is missing data for many countries, including major countries like US, Canada, Australia, etc. I expected less article per capita value for South and East Asia due to high population. I also expected high bias in because of high articles per capita for smaller countries as their articles count is lesser than other countries. The ratings of politicians from these countries would have been lesser since many politicians wouldn't be famous. Also, the Asian and African countries' articles would have less number of articles per capita attributing to literacy rates or the cultural-linguistic bias in general there, which means articles in their native languages would be better.
+
+### What might your results suggest about (English) Wikipedia as a data source?
+Data is dynamically changing on multiple runs hence could lead to inconsistency in analysis. The ORES scores might not be trustworthy as they come from an AI model that could be a victim of ideological, racial, gender, or cultural bias. From the ORES Wiki, I came to know that the way the ORES model evaluates the quality of the article itself appears to be biased toward the article's structure rather than the content.
+
+### Can you think of a realistic data science research situation where using these data (to train a model, perform hypothesis-driven research, or make business decisions) might create biased or misleading results, due to the inherent gaps and limitations of the data?
+Yes, biases may be present in content moderation or NLP-based technologies that collect data from the internet. For instance, we observed in the readings how gender, demographic, and cultural biases might result in the models making predictions that may not be accurate. Another illustration is the Islamophobia article, which shows how GPT-3 is opposed to the specific religion. These restrictions are brought about by the data that is given into these AI systems, which operate on the "Garbage In, Garbage Out" tenet.
+
+### How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
+For the regions and countries, there are missing Wikipedia articles information in the dataset. Few countries have population values as 0. Because of the above two reasons, the articles-per-capita might not represent the true values. Hence, the researcher should extract the politicians Wikipedia articles from those of the missing countries. Along with that, the ORES scores of articles for these countries should also be obtained to get a true picture of the high-quality-article-per-capita.  
+
 
 ## Repository Structure
 Here are the main folders in our github data-512-homework_2 repository:
