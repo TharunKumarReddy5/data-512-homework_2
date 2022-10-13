@@ -35,12 +35,6 @@ Stub - Stub-class article
  - [ORES REST API](https://www.mediawiki.org/wiki/ORES)
  - [Wikimedia Foundation REST API terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
 
-## Dependencies
-
-Install the dependencies from the requirements.txt file using
-
-    python -m pip install -r requirements.txt
-
 ## Issues and Special Considerations
 
 1. There are few duplicates in the politicians input data file. All the absolute duplicates are filtered from the data but the duplicates at article name level are taken into account for per-capita calculations. 
@@ -63,7 +57,12 @@ Yes, biases may be present in content moderation or NLP-based technologies that 
 ### How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
 For the regions and countries, there are missing Wikipedia articles information in the dataset. Few countries have population values as 0. Because of the above two reasons, the articles-per-capita might not represent the true values. Hence, the researcher should extract the politicians Wikipedia articles from those of the missing countries. Along with that, the ORES scores of articles for these countries should also be obtained to get a true picture of the high-quality-article-per-capita.  
 
+## Dependencies
 
+Install the dependencies from the requirements.txt file using
+
+    python -m pip install -r requirements.txt
+    
 ## Repository Structure
 Here are the main folders in our github data-512-homework_2 repository:
 ```bash
