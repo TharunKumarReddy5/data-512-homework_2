@@ -1,4 +1,4 @@
-article_title,country,lastrevid,article_quality,population,region
+article_title,country,revision_id,article_quality,population,region
 Shahjahan Noori,Afghanistan,1099689043.0,GA,41.1,SOUTH ASIA
 Abdul Ghafar Lakanwal,Afghanistan,943562276.0,Start,41.1,SOUTH ASIA
 Majah Ha Adrif,Afghanistan,852404094.0,Start,41.1,SOUTH ASIA
@@ -36,7 +36,7 @@ Hashmat Ghani Ahmadzai,Afghanistan,1112933356.0,C,41.1,SOUTH ASIA
 Abdul Ghani Ghani,Afghanistan,1072441893.0,Stub,41.1,SOUTH ASIA
 Ashraf Ghani,Afghanistan,1113195582.0,B,41.1,SOUTH ASIA
 Abdul Samad Ghaus,Afghanistan,1072271854.0,Stub,41.1,SOUTH ASIA
-Ghulam Ghaus,Afghanistan,1109361872.0,Stub,41.1,SOUTH ASIA
+Ghulam Ghaus,Afghanistan,1115758710.0,Stub,41.1,SOUTH ASIA
 Ghulam Muhammad Ghobar,Afghanistan,1108886395.0,Stub,41.1,SOUTH ASIA
 Mohammad Gul (Helmand Council),Afghanistan,1092523687.0,Stub,41.1,SOUTH ASIA
 Ghulam Haider Hamidi,Afghanistan,1095018556.0,Start,41.1,SOUTH ASIA
@@ -157,7 +157,7 @@ Mehmed Kalakula,Albania,979382854.0,Stub,2.8,SOUTHERN EUROPE
 Alfred Karamuço,Albania,1098236555.0,Stub,2.8,SOUTHERN EUROPE
 Ibrahim Karbunara,Albania,1053849574.0,Start,2.8,SOUTHERN EUROPE
 Ali Këlcyra,Albania,1069956844.0,C,2.8,SOUTHERN EUROPE
-Belind Këlliçi,Albania,1114971095.0,C,2.8,SOUTHERN EUROPE
+Belind Këlliçi,Albania,1115829687.0,C,2.8,SOUTHERN EUROPE
 Bajram Kelmendi,Albania,1098232331.0,Start,2.8,SOUTHERN EUROPE
 Kristo Kirka,Albania,1071577370.0,C,2.8,SOUTHERN EUROPE
 Elez Koçi,Albania,919356105.0,Start,2.8,SOUTHERN EUROPE
@@ -280,7 +280,7 @@ Santana André Pitra,Angola,886771177.0,Stub,35.6,MIDDLE AFRICA
 José Aníbal Lopes Rocha,Angola,985054758.0,Stub,35.6,MIDDLE AFRICA
 Luís Gomes Sambo,Angola,1114131425.0,Start,35.6,MIDDLE AFRICA
 José Filomeno dos Santos,Angola,1111269228.0,Start,35.6,MIDDLE AFRICA
-Jonas Savimbi,Angola,1110987217.0,C,35.6,MIDDLE AFRICA
+Jonas Savimbi,Angola,1115807457.0,C,35.6,MIDDLE AFRICA
 Manuel Bernardo de Sousa,Angola,886461023.0,Stub,35.6,MIDDLE AFRICA
 Augusto da Silva Tomás,Angola,1112407992.0,Stub,35.6,MIDDLE AFRICA
 Luzia Inglês Van-Dúnem,Angola,1067323463.0,Start,35.6,MIDDLE AFRICA
@@ -787,7 +787,7 @@ Joachim Dahissiho,Benin,1029448695.0,Stub,13.4,WESTERN AFRICA
 Adrien Degbey,Benin,1061050724.0,C,13.4,WESTERN AFRICA
 Luc Gnacadja,Benin,1105462246.0,C,13.4,WESTERN AFRICA
 Paul Hazoumé,Benin,1103078061.0,Start,13.4,WESTERN AFRICA
-Louis Hunkanrin,Benin,1093387515.0,C,13.4,WESTERN AFRICA
+Louis Hunkanrin,Benin,1115896477.0,C,13.4,WESTERN AFRICA
 Louis Ignacio-Pinto,Benin,1092475356.0,Stub,13.4,WESTERN AFRICA
 Arouna Mama,Benin,1065903499.0,Start,13.4,WESTERN AFRICA
 Moussa Okanla,Benin,1090050440.0,Start,13.4,WESTERN AFRICA
@@ -850,7 +850,7 @@ Francisco Argandoña,Bolivia,1113998869.0,Start,12.2,SOUTH AMERICA
 Antonio Machaca,Bolivia,1104152307.0,Stub,12.2,SOUTH AMERICA
 Adolfo Mendoza,Bolivia,1093449967.0,Stub,12.2,SOUTH AMERICA
 Pedro Domingo Murillo,Bolivia,1102892437.0,Start,12.2,SOUTH AMERICA
-Francisco Burdett O'Connor,Bolivia,1115670453.0,GA,12.2,SOUTH AMERICA
+Francisco Burdett O'Connor,Bolivia,1115835294.0,GA,12.2,SOUTH AMERICA
 Manuel Luis de Oliden,Bolivia,1111940891.0,Stub,12.2,SOUTH AMERICA
 Isabel Ortega Ventura,Bolivia,1067118559.0,Stub,12.2,SOUTH AMERICA
 Simón Iturri Patiño,Bolivia,1113483466.0,C,12.2,SOUTH AMERICA
@@ -858,7 +858,7 @@ Bonifacio Pinedo,Bolivia,1013870027.0,Stub,12.2,SOUTH AMERICA
 Julio Pinedo,Bolivia,1013509802.0,Stub,12.2,SOUTH AMERICA
 José Mariano Serrano,Bolivia,1102912474.0,Stub,12.2,SOUTH AMERICA
 Moisés Torres (politician),Bolivia,1103547860.0,Start,12.2,SOUTH AMERICA
-Fernando Vargas Mosua,Bolivia,1113961954.0,Start,12.2,SOUTH AMERICA
+Fernando Vargas Mosua,Bolivia,1115902993.0,Start,12.2,SOUTH AMERICA
 Jaime de Zudáñez,Bolivia,1057374473.0,Stub,12.2,SOUTH AMERICA
 Elvira Abdić-Jelenović,Bosnia-Herzegovina,1092410267.0,Stub,3.4,SOUTHERN EUROPE
 Mehmed Alajbegović,Bosnia-Herzegovina,1090097632.0,C,3.4,SOUTHERN EUROPE
@@ -934,7 +934,7 @@ Cipriano Barata,Brazil,1107774158.0,Start,214.8,SOUTH AMERICA
 Irani Barbosa,Brazil,1101926106.0,Stub,214.8,SOUTH AMERICA
 Jaison Barreto,Brazil,1103547503.0,Stub,214.8,SOUTH AMERICA
 Djalma Bastos de Morais,Brazil,1106062579.0,Stub,214.8,SOUTH AMERICA
-"Henrique de Beaurepaire-Rohan, Viscount of Beaurepaire-Rohan",Brazil,1086322080.0,Stub,214.8,SOUTH AMERICA
+"Henrique de Beaurepaire-Rohan, Viscount of Beaurepaire-Rohan",Brazil,1115822094.0,Stub,214.8,SOUTH AMERICA
 José Paulo Bisol,Brazil,1103547561.0,Start,214.8,SOUTH AMERICA
 Natália Bastos Bonavides,Brazil,1110953316.0,Stub,214.8,SOUTH AMERICA
 João Francisco Inácio Brazão,Brazil,1094855099.0,Stub,214.8,SOUTH AMERICA
@@ -1004,7 +1004,7 @@ Augusto Severo de Albuquerque Maranhão,Brazil,1033155129.0,Stub,214.8,SOUTH AME
 "José Manuel da Silva, Baron of Tietê",Brazil,1094131544.0,Stub,214.8,SOUTH AMERICA
 Fabiano Silveira,Brazil,1097157218.0,Start,214.8,SOUTH AMERICA
 Jose de Sousa Campos,Brazil,1015210781.0,Stub,214.8,SOUTH AMERICA
-"Irineu Evangelista de Sousa, Viscount of Mauá",Brazil,1095667959.0,C,214.8,SOUTH AMERICA
+"Irineu Evangelista de Sousa, Viscount of Mauá",Brazil,1115824782.0,C,214.8,SOUTH AMERICA
 "João Cardoso de Meneses e Sousa, Baron of Paranapiacaba",Brazil,1097159430.0,Start,214.8,SOUTH AMERICA
 Aureliano Cândido Tavares Bastos,Brazil,1001957115.0,Start,214.8,SOUTH AMERICA
 Juarez Távora (general),Brazil,1094239935.0,C,214.8,SOUTH AMERICA
@@ -1023,13 +1023,13 @@ Vasil Chichibaba,Bulgaria,969578159.0,Start,6.8,EASTERN EUROPE
 Vladimir Damgov,Bulgaria,1086786118.0,Start,6.8,EASTERN EUROPE
 Ivan Dimov (scientist),Bulgaria,931453017.0,C,6.8,EASTERN EUROPE
 Valentin Fortunov,Bulgaria,1032125290.0,Start,6.8,EASTERN EUROPE
-Kristalina Georgieva,Bulgaria,1113225688.0,GA,6.8,EASTERN EUROPE
+Kristalina Georgieva,Bulgaria,1115833345.0,GA,6.8,EASTERN EUROPE
 Ivancho Hadzhipenchovich,Bulgaria,1029652571.0,Start,6.8,EASTERN EUROPE
 Aleksi Ivanov,Bulgaria,1105069303.0,Start,6.8,EASTERN EUROPE
 Georgi Ivanov (mayor),Bulgaria,937372283.0,Stub,6.8,EASTERN EUROPE
 Ljubica Ivošević Dimitrov,Bulgaria,1070575609.0,Start,6.8,EASTERN EUROPE
 Grozdan Karadzhov,Bulgaria,1066070185.0,Start,6.8,EASTERN EUROPE
-Vladimir Karolev,Bulgaria,1099282655.0,Start,6.8,EASTERN EUROPE
+Vladimir Karolev,Bulgaria,1115721370.0,Start,6.8,EASTERN EUROPE
 Georgi Kirkov,Bulgaria,1005695384.0,Stub,6.8,EASTERN EUROPE
 Spiro Kitinchev,Bulgaria,1063738922.0,C,6.8,EASTERN EUROPE
 Kalina Konstantinova,Bulgaria,1104793980.0,Stub,6.8,EASTERN EUROPE
@@ -1039,7 +1039,7 @@ Nikola Lazarov,Bulgaria,1055871409.0,B,6.8,EASTERN EUROPE
 Ivan Marazov,Bulgaria,917237234.0,Stub,6.8,EASTERN EUROPE
 Venko Markovski,Bulgaria,1114988749.0,C,6.8,EASTERN EUROPE
 Sebihan Mehmed,Bulgaria,1092778647.0,Stub,6.8,EASTERN EUROPE
-Ilian Mihov,Bulgaria,1114357808.0,Start,6.8,EASTERN EUROPE
+Ilian Mihov,Bulgaria,1115721901.0,Start,6.8,EASTERN EUROPE
 Nikola Minchev,Bulgaria,1114820940.0,Start,6.8,EASTERN EUROPE
 Plamen Panayotov,Bulgaria,1096862893.0,Stub,6.8,EASTERN EUROPE
 Vladislav Panev,Bulgaria,1054474125.0,Stub,6.8,EASTERN EUROPE
@@ -1156,7 +1156,7 @@ John Ebong Ngole,Cameroon,1108422427.0,Stub,27.9,MIDDLE AFRICA
 Victor Anomah Ngu,Cameroon,1112931112.0,Start,27.9,MIDDLE AFRICA
 Dorothy L. Njeuma,Cameroon,1067488532.0,Start,27.9,MIDDLE AFRICA
 Bernard Njonga,Cameroon,1098278415.0,Stub,27.9,MIDDLE AFRICA
-Arouna N'Joya,Cameroon,1021209755.0,Stub,27.9,MIDDLE AFRICA
+Arouna N'Joya,Cameroon,1115899509.0,Stub,27.9,MIDDLE AFRICA
 Edouard Nomo-Ongolo,Cameroon,1115394556.0,Stub,27.9,MIDDLE AFRICA
 Antoine Ntsimi,Cameroon,1021211954.0,C,27.9,MIDDLE AFRICA
 André Ngongang Ouandji,Cameroon,1021209594.0,Stub,27.9,MIDDLE AFRICA
@@ -1252,7 +1252,7 @@ Checho Hirane,Chile,1077893937.0,Stub,19.8,SOUTH AMERICA
 Aucán Huilcamán,Chile,1049163977.0,Stub,19.8,SOUTH AMERICA
 Daniel Jadue,Chile,1115056871.0,GA,19.8,SOUTH AMERICA
 Liliana Jadue,Chile,1108033983.0,Start,19.8,SOUTH AMERICA
-Felipe Kast,Chile,1081495181.0,Start,19.8,SOUTH AMERICA
+Felipe Kast,Chile,1115707992.0,Start,19.8,SOUTH AMERICA
 José Rafael Larraín,Chile,1051093031.0,Stub,19.8,SOUTH AMERICA
 Fernando Lazcano Echaurren,Chile,1037353335.0,Stub,19.8,SOUTH AMERICA
 Antonio Leal Labrín,Chile,1101221172.0,Stub,19.8,SOUTH AMERICA
@@ -1307,7 +1307,7 @@ Sergio Zarzar Andonie,Chile,1037723664.0,Start,19.8,SOUTH AMERICA
 Hugo Zepeda Barrios,Chile,1083240431.0,Stub,19.8,SOUTH AMERICA
 Lu Feng (politician),China,1099564364.0,Stub,1436.6,EAST ASIA
 Zhang Lin (general),China,1107852480.0,Stub,1436.6,EAST ASIA
-José Manuel Restrepo Abondano,Colombia,1104908488.0,C,49.1,SOUTH AMERICA
+José Manuel Restrepo Abondano,Colombia,1115905258.0,C,49.1,SOUTH AMERICA
 Yahir Acuña,Colombia,1032240920.0,Stub,49.1,SOUTH AMERICA
 Iván Darío Agudelo,Colombia,1098122834.0,Start,49.1,SOUTH AMERICA
 Carlos Mario Álvarez,Colombia,1088725993.0,Stub,49.1,SOUTH AMERICA
@@ -1337,7 +1337,7 @@ Roberto Junguito,Colombia,1101933538.0,Stub,49.1,SOUTH AMERICA
 Maria Claudia Lacouture,Colombia,967534978.0,Start,49.1,SOUTH AMERICA
 Rodrigo Lara,Colombia,1108143692.0,C,49.1,SOUTH AMERICA
 Rodrigo Hernán Lloreda Caicedo,Colombia,1098157236.0,Start,49.1,SOUTH AMERICA
-Francisco José Lloreda Mera,Colombia,1098157353.0,C,49.1,SOUTH AMERICA
+Francisco José Lloreda Mera,Colombia,1115843253.0,C,49.1,SOUTH AMERICA
 Fernando Londoño,Colombia,1108751103.0,Start,49.1,SOUTH AMERICA
 Jorge Eduardo Londoño,Colombia,1106087943.0,Stub,49.1,SOUTH AMERICA
 Lorenzo Muelas,Colombia,1108518143.0,Start,49.1,SOUTH AMERICA
@@ -1549,7 +1549,7 @@ Jakov Blažević,Croatia,1107642810.0,Stub,3.8,SOUTHERN EUROPE
 Mirko Bogović,Croatia,1111957117.0,Stub,3.8,SOUTHERN EUROPE
 Zvonko Brkić,Croatia,1079673510.0,Stub,3.8,SOUTHERN EUROPE
 Andrija Torkvat Brlić,Croatia,1115206658.0,GA,3.8,SOUTHERN EUROPE
-Josip Broz Tito,Croatia,1112945222.0,B,3.8,SOUTHERN EUROPE
+Josip Broz Tito,Croatia,1115879018.0,B,3.8,SOUTHERN EUROPE
 Nadežda Čačinovič,Croatia,1112933531.0,Start,3.8,SOUTHERN EUROPE
 Melko Čingrija,Croatia,1078887578.0,Start,3.8,SOUTHERN EUROPE
 Pero Čingrija,Croatia,1078888021.0,Start,3.8,SOUTHERN EUROPE
@@ -1602,7 +1602,7 @@ President of Cuba,Cuba,1112307334.0,C,11.1,CARIBBEAN
 Ignacio Agramonte,Cuba,1104193887.0,C,11.1,CARIBBEAN
 Sebastian Arcos Bergnes,Cuba,1111442114.0,C,11.1,CARIBBEAN
 Gustavo Arcos,Cuba,1064128904.0,Start,11.1,CARIBBEAN
-Juan de Ayala y Escobar,Cuba,1059201207.0,C,11.1,CARIBBEAN
+Juan de Ayala y Escobar,Cuba,1115775999.0,C,11.1,CARIBBEAN
 Miguel Brugueras,Cuba,1094840575.0,Stub,11.1,CARIBBEAN
 Leopoldo Cancio,Cuba,1018001652.0,Start,11.1,CARIBBEAN
 Demetrio Castillo Duany,Cuba,1078095226.0,Start,11.1,CARIBBEAN
@@ -1616,7 +1616,7 @@ Carlos Fernández Gondín,Cuba,1066670419.0,Start,11.1,CARIBBEAN
 Orestes Ferrara,Cuba,1070890875.0,C,11.1,CARIBBEAN
 Francisco de Arango y Parreño,Cuba,1112500039.0,Start,11.1,CARIBBEAN
 Juan Carlos García Granda,Cuba,1086881012.0,Stub,11.1,CARIBBEAN
-Reinaldo García Zapata,Cuba,1081919816.0,Stub,11.1,CARIBBEAN
+Reinaldo García Zapata,Cuba,1115738739.0,Stub,11.1,CARIBBEAN
 Aurelio Hevia,Cuba,1029493523.0,Stub,11.1,CARIBBEAN
 Fernando Heydrich,Cuba,1015959656.0,Start,11.1,CARIBBEAN
 Alfredo Hornedo,Cuba,1111245250.0,C,11.1,CARIBBEAN
@@ -1658,7 +1658,7 @@ Petr Cibulka,Czechia,1113204122.0,Start,10.5,EASTERN EUROPE
 Čestmír Císař,Czechia,1104559649.0,C,10.5,EASTERN EUROPE
 Josef Šebestián Daubek,Czechia,1050015346.0,Start,10.5,EASTERN EUROPE
 Karel Domin,Czechia,1049007188.0,Start,10.5,EASTERN EUROPE
-Dominik Feri,Czechia,1114398428.0,GA,10.5,EASTERN EUROPE
+Dominik Feri,Czechia,1115784958.0,GA,10.5,EASTERN EUROPE
 Jaroslav Foldyna,Czechia,1101136989.0,Start,10.5,EASTERN EUROPE
 Vladimír Franz,Czechia,1018540612.0,C,10.5,EASTERN EUROPE
 Josef Václav Frič,Czechia,1096760435.0,Start,10.5,EASTERN EUROPE
@@ -1672,7 +1672,7 @@ Eduard Hedvicek,Czechia,1115494542.0,Stub,10.5,EASTERN EUROPE
 Jan Helcelet,Czechia,1097877507.0,Start,10.5,EASTERN EUROPE
 Vladimír Hučín,Czechia,1006178116.0,Start,10.5,EASTERN EUROPE
 Stanislav Huml,Czechia,1100256753.0,Stub,10.5,EASTERN EUROPE
-Martin Jahn,Czechia,1068489733.0,Start,10.5,EASTERN EUROPE
+Martin Jahn,Czechia,1115835189.0,Start,10.5,EASTERN EUROPE
 Antonín Janoušek,Czechia,1081772760.0,Start,10.5,EASTERN EUROPE
 Josef Ježek,Czechia,1081825452.0,Start,10.5,EASTERN EUROPE
 Konstantin Jireček,Czechia,1100601439.0,C,10.5,EASTERN EUROPE
@@ -1713,7 +1713,7 @@ Miroslav Tetter,Czechia,1098599146.0,Start,10.5,EASTERN EUROPE
 "Leopold, Count von Thun und Hohenstein",Czechia,1096753974.0,C,10.5,EASTERN EUROPE
 Tomáš Vandas,Czechia,1110388860.0,Start,10.5,EASTERN EUROPE
 Jiří Ventruba,Czechia,1106895401.0,Stub,10.5,EASTERN EUROPE
-Jan Vrba (politician),Czechia,1104640063.0,Stub,10.5,EASTERN EUROPE
+Jan Vrba (politician),Czechia,1115849913.0,Stub,10.5,EASTERN EUROPE
 Christian August Broberg,Denmark,1106575496.0,C,5.9,NORTHERN EUROPE
 Peter Vogelius Deinboll,Denmark,1086892227.0,Stub,5.9,NORTHERN EUROPE
 Niko Grünfeld,Denmark,1076895271.0,Stub,5.9,NORTHERN EUROPE
@@ -1779,7 +1779,7 @@ Esthela Acero,Ecuador,1100224092.0,Start,18.0,SOUTH AMERICA
 Julio Martinez Acosta,Ecuador,1105923366.0,Stub,18.0,SOUTH AMERICA
 Vanessa Álava,Ecuador,1114956349.0,Start,18.0,SOUTH AMERICA
 Mónica Alemán,Ecuador,1101823559.0,Stub,18.0,SOUTH AMERICA
-Andrés Arauz,Ecuador,1089361728.0,C,18.0,SOUTH AMERICA
+Andrés Arauz,Ecuador,1115911510.0,C,18.0,SOUTH AMERICA
 Verónica Arias,Ecuador,1112616294.0,Stub,18.0,SOUTH AMERICA
 Aurora Estrada y Ayala,Ecuador,1100691086.0,Start,18.0,SOUTH AMERICA
 Fernando Balda,Ecuador,1089729036.0,Start,18.0,SOUTH AMERICA
@@ -1958,7 +1958,7 @@ Tanya Waqanika,Fiji,1050607695.0,Start,0.9,OCEANIA
 Markku Andersson,Finland,1043222611.0,Stub,5.6,NORTHERN EUROPE
 Erik Berg (politician),Finland,1112445645.0,Stub,5.6,NORTHERN EUROPE
 Arthur Brofeldt,Finland,1050506093.0,Stub,5.6,NORTHERN EUROPE
-Anders Chydenius,Finland,1113818970.0,C,5.6,NORTHERN EUROPE
+Anders Chydenius,Finland,1115830540.0,C,5.6,NORTHERN EUROPE
 Selim Ekbom,Finland,997338039.0,Stub,5.6,NORTHERN EUROPE
 Erik Fleming (councilor),Finland,1066740982.0,Stub,5.6,NORTHERN EUROPE
 Klaus Fleming,Finland,1088318870.0,Start,5.6,NORTHERN EUROPE
@@ -1992,7 +1992,7 @@ Christoffer Taxell,Finland,1096094038.0,Start,5.6,NORTHERN EUROPE
 Heikki Heikinpoika Vaanila,Finland,1080391577.0,Stub,5.6,NORTHERN EUROPE
 Jaana Vasama,Finland,1095884412.0,Stub,5.6,NORTHERN EUROPE
 Miranda Vuolasranta,Finland,1106633718.0,Start,5.6,NORTHERN EUROPE
-Nils Westermarck,Finland,1019861873.0,Stub,5.6,NORTHERN EUROPE
+Nils Westermarck,Finland,1115832009.0,Start,5.6,NORTHERN EUROPE
 Anders Wirenius,Finland,1049923720.0,Stub,5.6,NORTHERN EUROPE
 Konni Zilliacus (senior),Finland,951511687.0,Start,5.6,NORTHERN EUROPE
 Jean Poldo d'Albenas,France,1067933042.0,Stub,65.8,WESTERN EUROPE
@@ -2316,7 +2316,7 @@ Heinrich Fleißner,Germany,1069865479.0,Start,83.3,WESTERN EUROPE
 Friedrich Johannes Frommann,Germany,1093387022.0,Start,83.3,WESTERN EUROPE
 Paul Fugger von Kirchberg und Weißenhorn,Germany,961559177.0,Stub,83.3,WESTERN EUROPE
 Günter Gaus,Germany,1101404633.0,GA,83.3,WESTERN EUROPE
-Friedrich von Gentz,Germany,1115440680.0,B,83.3,WESTERN EUROPE
+Friedrich von Gentz,Germany,1115884501.0,B,83.3,WESTERN EUROPE
 Tobias Goldschmidt,Germany,1102569953.0,Start,83.3,WESTERN EUROPE
 Carl Heinrich Wilhelm Hagen,Germany,1089339965.0,Stub,83.3,WESTERN EUROPE
 Gert Haller,Germany,1068252041.0,Stub,83.3,WESTERN EUROPE
@@ -2432,7 +2432,7 @@ Ekow Daniels,Ghana,1113264331.0,Stub,33.5,WESTERN AFRICA
 Emmanuel Kwamina Crentsil,Ghana,1109989757.0,Stub,33.5,WESTERN AFRICA
 Samuel Gyabaah,Ghana,1107578600.0,Stub,33.5,WESTERN AFRICA
 J. E. Casely Hayford,Ghana,1105203777.0,C,33.5,WESTERN AFRICA
-Hopeson Adorye,Ghana,1108880279.0,Stub,33.5,WESTERN AFRICA
+Hopeson Adorye,Ghana,1115853944.0,Stub,33.5,WESTERN AFRICA
 Mariam Iddrisu,Ghana,1106941716.0,Start,33.5,WESTERN AFRICA
 John Kofi Barku Tettegah,Ghana,1073037069.0,C,33.5,WESTERN AFRICA
 Agyen Kokobo,Ghana,1103370225.0,Start,33.5,WESTERN AFRICA
@@ -2444,7 +2444,7 @@ Margaret Ocran,Ghana,1114123721.0,Stub,33.5,WESTERN AFRICA
 John Mensah Sarbah,Ghana,1105403308.0,C,33.5,WESTERN AFRICA
 Frederick Nanka-Bruce,Ghana,1101467306.0,Start,33.5,WESTERN AFRICA
 Nelson Kwami Maglo,Ghana,1115083610.0,Start,33.5,WESTERN AFRICA
-Matthew Opoku Prempeh,Ghana,1107283015.0,C,33.5,WESTERN AFRICA
+Matthew Opoku Prempeh,Ghana,1115681263.0,C,33.5,WESTERN AFRICA
 Prince Ofosu Sefah,Ghana,,,33.5,WESTERN AFRICA
 Benjamin Quartey-Papafio,Ghana,1107694631.0,B,33.5,WESTERN AFRICA
 Shani Alhassan Saibu,Ghana,1093131797.0,Stub,33.5,WESTERN AFRICA
@@ -2501,7 +2501,7 @@ Lysandros Vilaetis,Greece,1109867368.0,Stub,10.6,SOUTHERN EUROPE
 Nikolaos Vilaetis,Greece,996226732.0,Stub,10.6,SOUTHERN EUROPE
 Anestis Vlahos,Greece,1111524798.0,Stub,10.6,SOUTHERN EUROPE
 Christos Zachopoulos,Greece,1104181728.0,Stub,10.6,SOUTHERN EUROPE
-Konstantinos Zervas,Greece,1115503449.0,Start,10.6,SOUTHERN EUROPE
+Konstantinos Zervas,Greece,1115831578.0,Start,10.6,SOUTHERN EUROPE
 Spiros Zournatzis,Greece,1110992544.0,Stub,10.6,SOUTHERN EUROPE
 Francis Alexis,Grenada,1106131084.0,Start,0.1,CARIBBEAN
 Gloria Banfield,Grenada,1110309816.0,Stub,0.1,CARIBBEAN
@@ -2553,7 +2553,7 @@ Manuel Villacorta,Guatemala,1099232298.0,Start,17.8,CENTRAL AMERICA
 Najib Roger Accar,Guinea,1112725055.0,Stub,13.9,WESTERN AFRICA
 Thierno Aliou,Guinea,1025501033.0,Start,13.9,WESTERN AFRICA
 Mahmoud Bah,Guinea,1049369237.0,Start,13.9,WESTERN AFRICA
-Mamadou Boye Bah,Guinea,1008440784.0,Start,13.9,WESTERN AFRICA
+Mamadou Boye Bah,Guinea,1115876744.0,Start,13.9,WESTERN AFRICA
 Fodé Bangoura,Guinea,1009816783.0,Stub,13.9,WESTERN AFRICA
 Karim Bangoura,Guinea,1073546958.0,Stub,13.9,WESTERN AFRICA
 Mafory Bangoura,Guinea,1113979706.0,GA,13.9,WESTERN AFRICA
@@ -2562,7 +2562,7 @@ Alpha Oumar Barry,Guinea,1100306971.0,Start,13.9,WESTERN AFRICA
 Diawadou Barry,Guinea,1112725061.0,Start,13.9,WESTERN AFRICA
 Ibrahima Sory Barry,Guinea,1112725057.0,Stub,13.9,WESTERN AFRICA
 Édouard Benjamin,Guinea,1098226724.0,Stub,13.9,WESTERN AFRICA
-Balla Camara,Guinea,1112725063.0,Stub,13.9,WESTERN AFRICA
+Balla Camara,Guinea,1115876902.0,Stub,13.9,WESTERN AFRICA
 Bengaly Camara,Guinea,1112725056.0,Stub,13.9,WESTERN AFRICA
 Damantang Camara,Guinea,1112724242.0,Stub,13.9,WESTERN AFRICA
 Faraban Camara,Guinea,1112725059.0,Stub,13.9,WESTERN AFRICA
@@ -2577,12 +2577,12 @@ Mamadou Pathé Diallo,Guinea,1073454394.0,Start,13.9,WESTERN AFRICA
 Siradiou Diallo,Guinea,1112724249.0,C,13.9,WESTERN AFRICA
 Yacine Diallo,Guinea,1092557835.0,Stub,13.9,WESTERN AFRICA
 Lansana Diané,Guinea,1063277893.0,C,13.9,WESTERN AFRICA
-Alioune Dramé,Guinea,1112725064.0,Start,13.9,WESTERN AFRICA
+Alioune Dramé,Guinea,1115877395.0,Start,13.9,WESTERN AFRICA
 K. Guilavogui,Guinea,1112725060.0,Stub,13.9,WESTERN AFRICA
 Mory Sinkoun Kaba,Guinea,1060639872.0,Start,13.9,WESTERN AFRICA
 Tibou Kamara,Guinea,1112725372.0,Stub,13.9,WESTERN AFRICA
 Fodéba Keïta,Guinea,1067563243.0,C,13.9,WESTERN AFRICA
-N'Famara Keïta,Guinea,1112725068.0,Start,13.9,WESTERN AFRICA
+N'Famara Keïta,Guinea,1115876522.0,Start,13.9,WESTERN AFRICA
 Dansa Kourouma,Guinea,1101142891.0,Stub,13.9,WESTERN AFRICA
 Mohamed Mancona Kouyaté,Guinea,1112725066.0,Stub,13.9,WESTERN AFRICA
 Édouard Niankoye Lamah,Guinea,1112725069.0,Stub,13.9,WESTERN AFRICA
@@ -2624,7 +2624,7 @@ Robert Persaud,Guyana,1088025837.0,Stub,0.8,SOUTH AMERICA
 Jane Phillips-Gay,Guyana,1073902299.0,C,0.8,SOUTH AMERICA
 Barton Scotland,Guyana,1106310966.0,Stub,0.8,SOUTH AMERICA
 C. N. Sharma,Guyana,1072664390.0,Start,0.8,SOUTH AMERICA
-Alfred A. Thorne,Guyana,1100603457.0,B,0.8,SOUTH AMERICA
+Alfred A. Thorne,Guyana,1115788783.0,B,0.8,SOUTH AMERICA
 A. R. F. Webber,Guyana,1083499032.0,Start,0.8,SOUTH AMERICA
 Robert Victor Evan Wong,Guyana,1028313429.0,C,0.8,SOUTH AMERICA
 President of Haiti,Haiti,1098603555.0,C,11.6,CARIBBEAN
@@ -2683,7 +2683,7 @@ Manó Andrássy,Hungary,1039437742.0,Stub,9.7,EASTERN EUROPE
 Antal Csárdi,Hungary,1085489651.0,Stub,9.7,EASTERN EUROPE
 Tristan Azbej,Hungary,1086787181.0,Start,9.7,EASTERN EUROPE
 Tamás Bakócz,Hungary,1018881597.0,Start,9.7,EASTERN EUROPE
-Franz Anton Basch,Hungary,1101564602.0,Start,9.7,EASTERN EUROPE
+Franz Anton Basch,Hungary,1115783172.0,Start,9.7,EASTERN EUROPE
 Stephen VII Báthory,Hungary,1112141867.0,Stub,9.7,EASTERN EUROPE
 Stephen III Báthory,Hungary,1018613046.0,Start,9.7,EASTERN EUROPE
 Stephen V Báthory,Hungary,1073751572.0,B,9.7,EASTERN EUROPE
@@ -2721,7 +2721,7 @@ Péter Fülöp (diplomat),Hungary,1009317517.0,Stub,9.7,EASTERN EUROPE
 János Fuzik,Hungary,1112077989.0,Stub,9.7,EASTERN EUROPE
 József Gera,Hungary,1074393115.0,Stub,9.7,EASTERN EUROPE
 János Ghyczy,Hungary,1051406176.0,Start,9.7,EASTERN EUROPE
-István Győrkös,Hungary,1105290217.0,GA,9.7,EASTERN EUROPE
+István Győrkös,Hungary,1115836803.0,GA,9.7,EASTERN EUROPE
 Miksa Hadik,Hungary,1017820647.0,Stub,9.7,EASTERN EUROPE
 Franz Haller,Hungary,1094144448.0,Stub,9.7,EASTERN EUROPE
 Anita Heringes,Hungary,1095011115.0,Start,9.7,EASTERN EUROPE
@@ -2819,7 +2819,7 @@ Ingi Björn Albertsson,Iceland,1112619067.0,Start,0.4,NORTHERN EUROPE
 Pétur Havsteen,Iceland,1033642930.0,Stub,0.4,NORTHERN EUROPE
 Thorkild Fjeldsted,Iceland,1113724499.0,Stub,0.4,NORTHERN EUROPE
 K. G. Adiyodi,India,1115170120.0,Stub,1417.2,SOUTH ASIA
-Ashok Kumar Gupta,India,1114969496.0,C,1417.2,SOUTH ASIA
+Ashok Kumar Gupta,India,1115826191.0,Start,1417.2,SOUTH ASIA
 Ranjit Singh Balian,India,1099961285.0,Stub,1417.2,SOUTH ASIA
 Bankim Chandra Ray,India,1114709001.0,Start,1417.2,SOUTH ASIA
 Banwari Lal Sharma,India,1111275823.0,Stub,1417.2,SOUTH ASIA
@@ -2836,7 +2836,7 @@ Dilip Choudhary,India,1111277464.0,Stub,1417.2,SOUTH ASIA
 Mukesh Choudhary (politician),India,1107220568.0,Start,1417.2,SOUTH ASIA
 Nandita Chowdhury,India,1105758179.0,Stub,1417.2,SOUTH ASIA
 Zahur Ahmad Chowdhury,India,1092910022.0,Start,1417.2,SOUTH ASIA
-Vimal Chudasama,India,1110838717.0,Stub,1417.2,SOUTH ASIA
+Vimal Chudasama,India,1115707614.0,Stub,1417.2,SOUTH ASIA
 Abdul Rashid Dar,India,1106035212.0,Start,1417.2,SOUTH ASIA
 Swaran Ram Darapuri,India,1105248886.0,C,1417.2,SOUTH ASIA
 Jawaharlal Darda,India,1097060133.0,Start,1417.2,SOUTH ASIA
@@ -2921,7 +2921,7 @@ Gopichand Padalkar,India,1107695229.0,Start,1417.2,SOUTH ASIA
 Ajit Singh Pal,India,1096043966.0,Stub,1417.2,SOUTH ASIA
 Kuka Parray,India,1114179474.0,Stub,1417.2,SOUTH ASIA
 Jai Prakash Bhai Patel,India,1076893724.0,Stub,1417.2,SOUTH ASIA
-Kanubhai Patel,India,1111011782.0,Stub,1417.2,SOUTH ASIA
+Kanubhai Patel,India,1115723908.0,Stub,1417.2,SOUTH ASIA
 B. G. Kolse Patil,India,1085121062.0,C,1417.2,SOUTH ASIA
 Sangita Patil,India,1096050347.0,Stub,1417.2,SOUTH ASIA
 T. P. Peethambaran,India,1076354773.0,Stub,1417.2,SOUTH ASIA
@@ -2944,7 +2944,7 @@ Renuka Das Bhalerao,India,1113145769.0,GA,1417.2,SOUTH ASIA
 Hemang Raval,India,1081727123.0,Stub,1417.2,SOUTH ASIA
 Roque Santana Fernandes,India,1114953891.0,C,1417.2,SOUTH ASIA
 Rahul Roy (politician),India,1113417801.0,Stub,1417.2,SOUTH ASIA
-Rekha Roy,India,1098477968.0,Stub,1417.2,SOUTH ASIA
+Rekha Roy,India,1115712468.0,Stub,1417.2,SOUTH ASIA
 Safiullah Khan Tanoli,India,1095006213.0,Start,1417.2,SOUTH ASIA
 Hemnarayan Sah,India,1050823128.0,Stub,1417.2,SOUTH ASIA
 Namita Saha,India,1098477936.0,Stub,1417.2,SOUTH ASIA
@@ -2978,7 +2978,7 @@ Vijay Kumar Singh (Bihar),India,1090457971.0,Stub,1417.2,SOUTH ASIA
 Sumita Sinha,India,1096051052.0,Stub,1417.2,SOUTH ASIA
 V. P. Sivasubramani,India,1110651026.0,Stub,1417.2,SOUTH ASIA
 Achhelal Sonkar,India,1034062987.0,Stub,1417.2,SOUTH ASIA
-M. K. Stalin,India,1115522249.0,GA,1417.2,SOUTH ASIA
+M. K. Stalin,India,1115845932.0,GA,1417.2,SOUTH ASIA
 Sunder Sham Arora,India,1101188962.0,Stub,1417.2,SOUTH ASIA
 Suresh Kumar Routray,India,1112193527.0,Start,1417.2,SOUTH ASIA
 Surinder Pal Singh Sibia,India,1096051156.0,Stub,1417.2,SOUTH ASIA
@@ -3140,7 +3140,7 @@ Ensieh Khazali,Iran,1113408053.0,Stub,88.6,SOUTH ASIA
 Mehrdad Khonsari,Iran,1109501844.0,C,88.6,SOUTH ASIA
 Mohammad-Hossein Khoshvaght,Iran,904994298.0,Stub,88.6,SOUTH ASIA
 Meysam Latifi,Iran,1100968096.0,Stub,88.6,SOUTH ASIA
-Mohammed Sharif Malekzadeh,Iran,1115657676.0,Start,88.6,SOUTH ASIA
+Mohammed Sharif Malekzadeh,Iran,1115835118.0,Start,88.6,SOUTH ASIA
 Hadi Manafi,Iran,1114470303.0,Stub,88.6,SOUTH ASIA
 Ahmad Masoumifar,Iran,1096877809.0,Stub,88.6,SOUTH ASIA
 Ebrahim Matinian,Iran,1053545750.0,Start,88.6,SOUTH ASIA
@@ -3149,7 +3149,7 @@ Mohammad Ashouri Taziani,Iran,1096365535.0,Stub,88.6,SOUTH ASIA
 Mohammad Faghie,Iran,1095731005.0,Stub,88.6,SOUTH ASIA
 Mohammad Hadi Nejad Hosseinian,Iran,1112459525.0,Stub,88.6,SOUTH ASIA
 Mohammad Reza Mokhber Dezfouli,Iran,1064893227.0,Stub,88.6,SOUTH ASIA
-Mohammad Saleh Meftah,Iran,1113597047.0,C,88.6,SOUTH ASIA
+Mohammad Saleh Meftah,Iran,1115913957.0,C,88.6,SOUTH ASIA
 Mohammad Shahcheraghi,Iran,1096983521.0,C,88.6,SOUTH ASIA
 Mohammad-Hadi Abdekhodaei,Iran,1107714938.0,Start,88.6,SOUTH ASIA
 Amir Mohebbian,Iran,1112886314.0,Start,88.6,SOUTH ASIA
@@ -3320,7 +3320,7 @@ Enea Cerquetti,Italy,1102908999.0,Start,58.9,SOUTHERN EUROPE
 Enrico Cialdini,Italy,1103959317.0,Start,58.9,SOUTHERN EUROPE
 Michele Angelo Cianciulli,Italy,857696567.0,Stub,58.9,SOUTHERN EUROPE
 "Luigi, Count Cibrario",Italy,1095991908.0,C,58.9,SOUTHERN EUROPE
-Pompeo Colajanni,Italy,1108161134.0,C,58.9,SOUTHERN EUROPE
+Pompeo Colajanni,Italy,1115809997.0,C,58.9,SOUTHERN EUROPE
 Stefano Colonna,Italy,1004458598.0,Stub,58.9,SOUTHERN EUROPE
 Piero Ginori Conti,Italy,1051092198.0,C,58.9,SOUTHERN EUROPE
 Alessandro Contini-Bonacossi,Italy,1073522623.0,Start,58.9,SOUTHERN EUROPE
@@ -3370,7 +3370,7 @@ Vincenzo La Russa,Italy,1100035232.0,Stub,58.9,SOUTHERN EUROPE
 Luigi Porro Lambertenghi,Italy,1081453534.0,Start,58.9,SOUTHERN EUROPE
 Enzo Lattuca,Italy,1064363585.0,C,58.9,SOUTHERN EUROPE
 Monaldo Leopardi,Italy,1113303098.0,C,58.9,SOUTHERN EUROPE
-David Levi (Italy),Italy,1059903449.0,Start,58.9,SOUTHERN EUROPE
+David Levi (Italy),Italy,1115892842.0,Start,58.9,SOUTHERN EUROPE
 Giovanni Lilliu,Italy,1024650725.0,Stub,58.9,SOUTHERN EUROPE
 Calogero Lo Giudice,Italy,1099628382.0,Stub,58.9,SOUTHERN EUROPE
 Alessandrina Lonardo,Italy,1109618180.0,Stub,58.9,SOUTHERN EUROPE
@@ -3603,7 +3603,7 @@ Mohammad Salameh Al Nabulsi,Jordan,1111980637.0,Stub,11.2,WESTERN ASIA
 Samir Murad,Jordan,1061306891.0,Start,11.2,WESTERN ASIA
 Nayef Steitieh,Jordan,1112864606.0,Stub,11.2,WESTERN ASIA
 Samir Rifai,Jordan,1090813858.0,C,11.2,WESTERN ASIA
-Sharaf bin Rajeh,Jordan,1114705527.0,Start,11.2,WESTERN ASIA
+Sharaf bin Rajeh,Jordan,1115816949.0,Start,11.2,WESTERN ASIA
 Laith Shubeilat,Jordan,1017482477.0,Stub,11.2,WESTERN ASIA
 Muhammad Suheimat,Jordan,1043197188.0,Start,11.2,WESTERN ASIA
 Alia Abu Tayeh,Jordan,1112274605.0,Start,11.2,WESTERN ASIA
@@ -3783,7 +3783,7 @@ Ri Hi-yong,"Korea, North",1092539237.0,Stub,26.1,EAST ASIA
 Ri Man-gon,"Korea, North",1070145508.0,Start,26.1,EAST ASIA
 Ri Pyong-chol,"Korea, North",1098010868.0,Start,26.1,EAST ASIA
 Ri Yong-mu,"Korea, North",1091894749.0,Start,26.1,EAST ASIA
-Kang Sun-nam,"Korea, North",,,26.1,EAST ASIA
+Kang Sun-nam,"Korea, North",1115814438.0,Start,26.1,EAST ASIA
 Sung Jusik,"Korea, North",1028731483.0,Stub,26.1,EAST ASIA
 Yang Bin (businessman),"Korea, North",1061877239.0,Start,26.1,EAST ASIA
 Yun Jong-rin,"Korea, North",1001811053.0,Stub,26.1,EAST ASIA
@@ -3821,7 +3821,7 @@ Kim Choong-soo,"Korea, South",1092597492.0,C,51.6,EAST ASIA
 Kim Eun-hye (politician),"Korea, South",1101948116.0,GA,51.6,EAST ASIA
 Kim Han-jung,"Korea, South",1101826080.0,C,51.6,EAST ASIA
 Kim Hyung-shik,"Korea, South",1089063837.0,C,51.6,EAST ASIA
-Kim Jae-yeon (politician),"Korea, South",1104834756.0,GA,51.6,EAST ASIA
+Kim Jae-yeon (politician),"Korea, South",1115844217.0,GA,51.6,EAST ASIA
 Kim Jong-hoe,"Korea, South",1064139400.0,Start,51.6,EAST ASIA
 Kim Jong-hwan (military officer),"Korea, South",1108889400.0,Stub,51.6,EAST ASIA
 Kim Joon-kyo,"Korea, South",1094552070.0,C,51.6,EAST ASIA
@@ -3895,8 +3895,8 @@ Igor Simić,Kosovo,1110535502.0,Start,1.8,SOUTHERN EUROPE
 Rexhai Surroi,Kosovo,1034004343.0,Start,1.8,SOUTHERN EUROPE
 Rada Trajković,Kosovo,1109175174.0,Start,1.8,SOUTHERN EUROPE
 Visar Ymeri,Kosovo,1036757024.0,Stub,1.8,SOUTHERN EUROPE
-Abdulghaphor Hajjieh,Kuwait,1097091048.0,C,4.1,WESTERN ASIA
-Alaa Hussein Ali,Kuwait,1110198052.0,Start,4.1,WESTERN ASIA
+Abdulghaphor Hajjieh,Kuwait,1115773831.0,C,4.1,WESTERN ASIA
+Alaa Hussein Ali,Kuwait,1115819539.0,Start,4.1,WESTERN ASIA
 Ali Hussain Al-Awadhi,Kuwait,994095734.0,Start,4.1,WESTERN ASIA
 Saad Bin Tefla,Kuwait,1098295980.0,Stub,4.1,WESTERN ASIA
 Haitham al-Ghais,Kuwait,1104873540.0,Stub,4.1,WESTERN ASIA
@@ -3915,7 +3915,7 @@ Uran Botobekov,Kyrgyzstan,1031944024.0,C,6.8,CENTRAL ASIA
 Torokul Dzhanuzakov,Kyrgyzstan,1092752457.0,C,6.8,CENTRAL ASIA
 Bayaman Erkinbayev,Kyrgyzstan,1009720899.0,Start,6.8,CENTRAL ASIA
 Kanybek Isakov,Kyrgyzstan,1108850828.0,Start,6.8,CENTRAL ASIA
-Sadyr Japarov,Kyrgyzstan,1112579237.0,GA,6.8,CENTRAL ASIA
+Sadyr Japarov,Kyrgyzstan,1115891351.0,GA,6.8,CENTRAL ASIA
 Maksat Kunakunov,Kyrgyzstan,1100989333.0,Start,6.8,CENTRAL ASIA
 German Kuznetsov,Kyrgyzstan,1080823202.0,Stub,6.8,CENTRAL ASIA
 Adakhan Madumarov,Kyrgyzstan,1053457031.0,Start,6.8,CENTRAL ASIA
@@ -4039,7 +4039,7 @@ Abdullah al-Lafi,Libya,1110626129.0,Stub,6.8,NORTHERN AFRICA
 Ahmed Rafiq Almhadoui,Libya,980219181.0,Stub,6.8,NORTHERN AFRICA
 Mohamed Abulasʽad El-ʽAlem,Libya,978820765.0,Stub,6.8,NORTHERN AFRICA
 Abd-Rabbo al-Barassi,Libya,1115564159.0,Stub,6.8,NORTHERN AFRICA
-Fathi Bashagha,Libya,1115543011.0,C,6.8,NORTHERN AFRICA
+Fathi Bashagha,Libya,1115685809.0,C,6.8,NORTHERN AFRICA
 Mohamed Ben Ghalbon,Libya,1045780839.0,C,6.8,NORTHERN AFRICA
 Ahmad Bishti,Libya,988068224.0,Stub,6.8,NORTHERN AFRICA
 Abdul Hamid Dbeibeh,Libya,1115564238.0,C,6.8,NORTHERN AFRICA
@@ -4113,7 +4113,7 @@ Darius Mažintas,Lithuania,978234421.0,Start,2.8,NORTHERN EUROPE
 Visvaldas Mažonas,Lithuania,1111828286.0,Start,2.8,NORTHERN EUROPE
 Albertas Miškinis,Lithuania,1091314043.0,Stub,2.8,NORTHERN EUROPE
 Donatas Morkūnas,Lithuania,1090323288.0,Stub,2.8,NORTHERN EUROPE
-Mindaugas Murza,Lithuania,1023934564.0,GA,2.8,NORTHERN EUROPE
+Mindaugas Murza,Lithuania,1115848408.0,GA,2.8,NORTHERN EUROPE
 Algimantas Norvilas,Lithuania,1100321449.0,Stub,2.8,NORTHERN EUROPE
 Grzegorz Antoni Ogiński,Lithuania,1104130589.0,Start,2.8,NORTHERN EUROPE
 Vytautas Paliūnas,Lithuania,989408024.0,Stub,2.8,NORTHERN EUROPE
@@ -4258,7 +4258,7 @@ Hishamuddin Rais,Malaysia,1089314868.0,Start,32.7,SOUTHEAST ASIA
 Hasnoor Hussein,Malaysia,1077836051.0,C,32.7,SOUTHEAST ASIA
 Ishak Haji Muhammad,Malaysia,1035141510.0,C,32.7,SOUTHEAST ASIA
 Rozman Isli,Malaysia,1108497849.0,Start,32.7,SOUTHEAST ASIA
-Mazlan Ismail,Malaysia,1113193039.0,C,32.7,SOUTHEAST ASIA
+Mazlan Ismail,Malaysia,1115842286.0,C,32.7,SOUTHEAST ASIA
 Ahmad Kamil Jaafar,Malaysia,1113197409.0,Start,32.7,SOUTHEAST ASIA
 Jefridin Atan,Malaysia,1106337099.0,Start,32.7,SOUTHEAST ASIA
 John Ambrose (politician),Malaysia,1112592341.0,Stub,32.7,SOUTHEAST ASIA
@@ -4399,7 +4399,7 @@ Mohamed Lemine Ch'bih Ould Cheikh Melainine,Mauritania,1047066142.0,C,4.7,WESTER
 Vatimetou Mint Khatry,Mauritania,1059724517.0,Stub,4.7,WESTERN AFRICA
 Patrick Assirvaden,Mauritania,1055794640.0,Stub,4.7,WESTERN AFRICA
 Anil Bachoo,Mauritania,1106359560.0,Stub,4.7,WESTERN AFRICA
-Antoine Bestel,Mauritania,1067871985.0,GA,4.7,WESTERN AFRICA
+Antoine Bestel,Mauritania,1115807526.0,GA,4.7,WESTERN AFRICA
 Rishon Bhadain,Mauritania,1100859250.0,Stub,4.7,WESTERN AFRICA
 Eddy J. Changkye,Mauritania,998060507.0,C,4.7,WESTERN AFRICA
 Joseph-François Charpentier de Cossigny,Mauritania,1065172397.0,Start,4.7,WESTERN AFRICA
@@ -4476,7 +4476,7 @@ Vujica Lazović,Montenegro,1108706425.0,Start,0.6,SOUTHERN EUROPE
 Vladimir Leposavić,Montenegro,1073191784.0,C,0.6,SOUTHERN EUROPE
 Stjepan Mitrov Ljubiša,Montenegro,1099266672.0,C,0.6,SOUTHERN EUROPE
 Stevan Lukačević,Montenegro,1030707781.0,Stub,0.6,SOUTHERN EUROPE
-Savić Marković Štedimlija,Montenegro,1113219745.0,C,0.6,SOUTHERN EUROPE
+Savić Marković Štedimlija,Montenegro,1115770411.0,C,0.6,SOUTHERN EUROPE
 Tarzan Milošević,Montenegro,1073191907.0,Stub,0.6,SOUTHERN EUROPE
 Iko Mirković,Montenegro,1030708648.0,Start,0.6,SOUTHERN EUROPE
 Fuad Nimani,Montenegro,1098981453.0,Stub,0.6,SOUTHERN EUROPE
@@ -4536,7 +4536,7 @@ Muhammad al-Kattani,Morocco,1088340779.0,GA,36.7,NORTHERN AFRICA
 Khnata bent Bakkar,Morocco,1112728253.0,C,36.7,NORTHERN AFRICA
 Mohand Laenser,Morocco,1110541676.0,Stub,36.7,NORTHERN AFRICA
 Fatima Marouan,Morocco,1085899467.0,Start,36.7,NORTHERN AFRICA
-Mohamed Mehdi Bensaid,Morocco,1112863129.0,Stub,36.7,NORTHERN AFRICA
+Mohamed Mehdi Bensaid,Morocco,1115789792.0,Stub,36.7,NORTHERN AFRICA
 Mohamed Sadiki,Morocco,1112864122.0,Stub,36.7,NORTHERN AFRICA
 Mohammed VI of Morocco,Morocco,1113314439.0,B,36.7,NORTHERN AFRICA
 Abdelkrim Motii,Morocco,956960749.0,Stub,36.7,NORTHERN AFRICA
@@ -4552,7 +4552,7 @@ Sidi al-Ayachi,Morocco,1095623946.0,Start,36.7,NORTHERN AFRICA
 Fathallah Sijilmassi,Morocco,1095503216.0,Start,36.7,NORTHERN AFRICA
 Mohammed Allal Sinaceur,Morocco,1047221771.0,Start,36.7,NORTHERN AFRICA
 Mohamed Belhassan Wazzani,Morocco,1101462823.0,Start,36.7,NORTHERN AFRICA
-Nasser Zefzafi,Morocco,1105784313.0,C,36.7,NORTHERN AFRICA
+Nasser Zefzafi,Morocco,1115903038.0,C,36.7,NORTHERN AFRICA
 Abdellatif Zeroual,Morocco,1074290663.0,Stub,36.7,NORTHERN AFRICA
 Mohammed Ziane,Morocco,1097940843.0,Start,36.7,NORTHERN AFRICA
 Yassir Znagui,Morocco,1058407241.0,Stub,36.7,NORTHERN AFRICA
@@ -4753,7 +4753,7 @@ Fedde Schurer,Netherlands,1089197423.0,B,17.7,WESTERN EUROPE
 Florens van der Spek,Netherlands,1111908414.0,Start,17.7,WESTERN EUROPE
 Victor de Stuers,Netherlands,1096429041.0,C,17.7,WESTERN EUROPE
 Cornelis van Aarsens,Netherlands,1023030987.0,Start,17.7,WESTERN EUROPE
-Hugo van den Eynde,Netherlands,1096420142.0,Start,17.7,WESTERN EUROPE
+Hugo van den Eynde,Netherlands,1115856466.0,Start,17.7,WESTERN EUROPE
 Viglius,Netherlands,1096429102.0,Start,17.7,WESTERN EUROPE
 Rudi Vis,Netherlands,1074946503.0,Start,17.7,WESTERN EUROPE
 Anton August van Vloten,Netherlands,1113565390.0,Start,17.7,WESTERN EUROPE
@@ -4897,7 +4897,7 @@ Modupe Irele,Nigeria,1074572057.0,Start,218.5,WESTERN AFRICA
 Joseph Itotoh,Nigeria,1112823244.0,Stub,218.5,WESTERN AFRICA
 Agom Jarigbe,Nigeria,1103263976.0,Start,218.5,WESTERN AFRICA
 Manasseh Daniel Jatau,Nigeria,1079757944.0,Stub,218.5,WESTERN AFRICA
-Ibrahim Usman Jibril,Nigeria,989331595.0,C,218.5,WESTERN AFRICA
+Ibrahim Usman Jibril,Nigeria,1115701374.0,C,218.5,WESTERN AFRICA
 Abdulmumin Jibrin,Nigeria,1113198170.0,C,218.5,WESTERN AFRICA
 Sarah Jibrin,Nigeria,1047324003.0,Stub,218.5,WESTERN AFRICA
 Mercy Johnson,Nigeria,1114578833.0,GA,218.5,WESTERN AFRICA
@@ -4981,7 +4981,7 @@ Terhemba Shija,Nigeria,1065302065.0,Stub,218.5,WESTERN AFRICA
 Moses Shipi,Nigeria,1086280374.0,Start,218.5,WESTERN AFRICA
 Kunle Soname,Nigeria,1077158463.0,Stub,218.5,WESTERN AFRICA
 Otunba Fatai Sowemimo,Nigeria,1101390301.0,Start,218.5,WESTERN AFRICA
-Omoyele Sowore treason charges,Nigeria,1100045584.0,C,218.5,WESTERN AFRICA
+Omoyele Sowore treason charges,Nigeria,1115909410.0,C,218.5,WESTERN AFRICA
 Olaokun Soyinka,Nigeria,1109993658.0,Start,218.5,WESTERN AFRICA
 Abubakar Y. Suleiman,Nigeria,1062361247.0,Stub,218.5,WESTERN AFRICA
 Abdullahi Aliyu Sumaila,Nigeria,1108477551.0,GA,218.5,WESTERN AFRICA
@@ -5141,7 +5141,7 @@ Abdul Aziz Kurd,Pakistan,1115101306.0,Start,235.8,SOUTH ASIA
 Qadir Magsi,Pakistan,1111312988.0,Start,235.8,SOUTH ASIA
 Dodo Maheri,Pakistan,1063428037.0,Stub,235.8,SOUTH ASIA
 Qadir Mandokhail,Pakistan,1048923998.0,Stub,235.8,SOUTH ASIA
-Fakir Abdul Mannan,Pakistan,1100185203.0,Start,235.8,SOUTH ASIA
+Fakir Abdul Mannan,Pakistan,1115732951.0,Start,235.8,SOUTH ASIA
 Khalid Mansoor,Pakistan,1080608920.0,Stub,235.8,SOUTH ASIA
 Balach Marri,Pakistan,1093674771.0,C,235.8,SOUTH ASIA
 Mir Humayun Khan Marri,Pakistan,1091472944.0,Stub,235.8,SOUTH ASIA
@@ -5154,7 +5154,7 @@ Mir Hasem Ali,Pakistan,992577566.0,Stub,235.8,SOUTH ASIA
 Nepal Nag,Pakistan,1115613552.0,Start,235.8,SOUTH ASIA
 Syed Sajid Ali Naqvi,Pakistan,1115205356.0,Start,235.8,SOUTH ASIA
 Haji Omar,Pakistan,1103176696.0,Stub,235.8,SOUTH ASIA
-Omer Sarfraz Cheema,Pakistan,1115641661.0,Start,235.8,SOUTH ASIA
+Omer Sarfraz Cheema,Pakistan,1115873919.0,Start,235.8,SOUTH ASIA
 Khurram Khan Panni,Pakistan,1064682649.0,Start,235.8,SOUTH ASIA
 Saifullah Khan Paracha,Pakistan,1101223025.0,Start,235.8,SOUTH ASIA
 Sher Ali Khan Pataudi,Pakistan,1112284109.0,C,235.8,SOUTH ASIA
@@ -5347,7 +5347,7 @@ Ronald Gamarra Herrera,Peru,1097472690.0,Stub,33.4,SOUTH AMERICA
 Carlos Gamarra Ugaz,Peru,1097472740.0,Start,33.4,SOUTH AMERICA
 Rafael Arcangel Avalos Garcia,Peru,1060107117.0,Stub,33.4,SOUTH AMERICA
 Francisco de Paula González Vigil,Peru,1060068653.0,Start,33.4,SOUTH AMERICA
-Julio Guzmán,Peru,1096456567.0,C,33.4,SOUTH AMERICA
+Julio Guzmán,Peru,1115864376.0,C,33.4,SOUTH AMERICA
 Nadine Heredia,Peru,1107010550.0,Start,33.4,SOUTH AMERICA
 Fernando Herrera Mamani,Peru,1100256402.0,Start,33.4,SOUTH AMERICA
 Antonio Huachaca,Peru,1109866720.0,FA,33.4,SOUTH AMERICA
@@ -5355,7 +5355,7 @@ José Huerta,Peru,1108482833.0,Start,33.4,SOUTH AMERICA
 Patricia Juárez,Peru,1115167237.0,Start,33.4,SOUTH AMERICA
 Luis Felipe de Las Casas Grieve,Peru,1094060287.0,Stub,33.4,SOUTH AMERICA
 Nieves Limachi,Peru,1056507136.0,Stub,33.4,SOUTH AMERICA
-Rafael López Aliaga,Peru,1115165572.0,GA,33.4,SOUTH AMERICA
+Rafael López Aliaga,Peru,1115843755.0,GA,33.4,SOUTH AMERICA
 Santiago Manuin Valera,Peru,1104379963.0,Stub,33.4,SOUTH AMERICA
 Oscar Mollohuanca,Peru,963951858.0,C,33.4,SOUTH AMERICA
 Jorge Muñoz (Peruvian politician),Peru,1105812167.0,C,33.4,SOUTH AMERICA
@@ -5565,7 +5565,7 @@ Manuel Caldeira Cabral,Portugal,1030277319.0,Stub,10.3,SOUTHERN EUROPE
 José Carreira Marques,Portugal,1099308842.0,Start,10.3,SOUTHERN EUROPE
 Helena Carreiras,Portugal,1099448491.0,C,10.3,SOUTHERN EUROPE
 Luís Filipe Castro Mendes,Portugal,974486256.0,Stub,10.3,SOUTHERN EUROPE
-"Manuel Antônio Ribeiro de Castro, Baron of Santa Rita",Portugal,1095956737.0,Start,10.3,SOUTHERN EUROPE
+"Manuel Antônio Ribeiro de Castro, Baron of Santa Rita",Portugal,1115822644.0,Start,10.3,SOUTHERN EUROPE
 Eduardo Catroga,Portugal,986301250.0,Stub,10.3,SOUTHERN EUROPE
 José Xavier de Cerveira e Sousa,Portugal,1013676755.0,Start,10.3,SOUTHERN EUROPE
 Carlos César,Portugal,1106072948.0,C,10.3,SOUTHERN EUROPE
@@ -5645,7 +5645,7 @@ André Ventura,Portugal,1113024633.0,GA,10.3,SOUTHERN EUROPE
 Abdulla bin Abdulaziz bin Turki Al Subaie,Qatar,1112863618.0,Stub,2.7,WESTERN ASIA
 Ahmad bin Eid al-Thani,Qatar,918431879.0,Stub,2.7,WESTERN ASIA
 Ahmed bin Muhammed Al Thani,Qatar,1095368083.0,C,2.7,WESTERN ASIA
-Hamda bint Hassan Al Sulaiti,Qatar,1096912386.0,Stub,2.7,WESTERN ASIA
+Hamda bint Hassan Al Sulaiti,Qatar,1115843985.0,Stub,2.7,WESTERN ASIA
 Salah bin Ghanim Al Ali,Qatar,1096892403.0,Start,2.7,WESTERN ASIA
 Abdul Rahman bin Hamad Al Attiyah,Qatar,1111178806.0,Start,2.7,WESTERN ASIA
 Abdul Aziz Bin Khalid Al-Ghanim,Qatar,1102331990.0,Stub,2.7,WESTERN ASIA
@@ -5657,7 +5657,7 @@ Ali al-Qaradaghi,Qatar,1112620841.0,Start,2.7,WESTERN ASIA
 Abdulla bin Mohammed bin Saud Al Thani,Qatar,1103645208.0,Start,2.7,WESTERN ASIA
 Hamad bin Jabor bin Jassim Al Thani,Qatar,950626816.0,Start,2.7,WESTERN ASIA
 Khalifa bin Hamad bin Khalifa Al Thani,Qatar,1114795734.0,C,2.7,WESTERN ASIA
-Tamim bin Hamad Al Thani,Qatar,1115238869.0,B,2.7,WESTERN ASIA
+Tamim bin Hamad Al Thani,Qatar,1115802122.0,B,2.7,WESTERN ASIA
 Radu Ciuceanu,Romania,1111240346.0,GA,19.0,EASTERN EUROPE
 Gheorghe A. Lăzăreanu-Lăzurică,Romania,1114255066.0,FA,19.0,EASTERN EUROPE
 Dukuvakha Abdurakhmanov,Russia,1114096602.0,Stub,144.3,EASTERN EUROPE
@@ -5839,7 +5839,7 @@ Francois Habitegeko,Rwanda,1093566116.0,Stub,13.8,EASTERN AFRICA
 Soraya Hakuziyaremye,Rwanda,1113025870.0,Start,13.8,EASTERN AFRICA
 Emmanuel Havugimana,Rwanda,1092282528.0,C,13.8,EASTERN AFRICA
 Jean de Dieu Rurangirwa,Rwanda,1056019246.0,Stub,13.8,EASTERN AFRICA
-Paul Kagame,Rwanda,1114414912.0,FA,13.8,EASTERN AFRICA
+Paul Kagame,Rwanda,1115862441.0,FA,13.8,EASTERN AFRICA
 Froduald Karamira,Rwanda,1095387542.0,C,13.8,EASTERN AFRICA
 Patrick Karegeya,Rwanda,1093281669.0,GA,13.8,EASTERN AFRICA
 Alexandre Lyambabaje,Rwanda,1090449316.0,Start,13.8,EASTERN AFRICA
@@ -6144,7 +6144,7 @@ Osman Dubbe,Somalia,1104337611.0,Start,17.6,EASTERN AFRICA
 Mohamed Ali Facaye,Somalia,959891467.0,Stub,17.6,EASTERN AFRICA
 Abdulcadir Gabeire Farah,Somalia,1083176145.0,B,17.6,EASTERN AFRICA
 Abdulrahim Abby Farah,Somalia,1082812482.0,C,17.6,EASTERN AFRICA
-Ahmed Moalim Fiqi,Somalia,1113844912.0,Start,17.6,EASTERN AFRICA
+Ahmed Moalim Fiqi,Somalia,1115853537.0,Start,17.6,EASTERN AFRICA
 Mohamud Abdi Gaab,Somalia,1059533900.0,Stub,17.6,EASTERN AFRICA
 Ahmed Gacmayare,Somalia,1055233016.0,Stub,17.6,EASTERN AFRICA
 Garaad Abdulahi Garaad Soofe,Somalia,1092287063.0,Start,17.6,EASTERN AFRICA
@@ -6172,11 +6172,11 @@ Hibaq Jama,Somalia,1082993295.0,Stub,17.6,EASTERN AFRICA
 Mohamed Yusuf Jama,Somalia,1105894241.0,Stub,17.6,EASTERN AFRICA
 Abdirahman Janaqow,Somalia,1016481335.0,Start,17.6,EASTERN AFRICA
 Yusuf Hussein Jimaale,Somalia,1109018708.0,Stub,17.6,EASTERN AFRICA
-Abdirizak Jurile,Somalia,1114253924.0,Start,17.6,EASTERN AFRICA
+Abdirizak Jurile,Somalia,1115857480.0,Start,17.6,EASTERN AFRICA
 Muna Khalif,Somalia,1098095871.0,Start,17.6,EASTERN AFRICA
 Mohammed Awale Liban,Somalia,1056519656.0,Stub,17.6,EASTERN AFRICA
 Maslah Mohammed Siad Barre,Somalia,1049402564.0,Start,17.6,EASTERN AFRICA
-Mohammed Abdullah Hassan,Somalia,1113177246.0,C,17.6,EASTERN AFRICA
+Mohammed Abdullah Hassan,Somalia,1115797248.0,C,17.6,EASTERN AFRICA
 Hassan Ali Mire,Somalia,1113047346.0,C,17.6,EASTERN AFRICA
 Hassan Moalim,Somalia,1101935309.0,Stub,17.6,EASTERN AFRICA
 Mohamed Ainanshe Guled,Somalia,1074486381.0,Start,17.6,EASTERN AFRICA
@@ -6233,7 +6233,7 @@ Khadra Haji Ismail Geid,Somalia,1110909858.0,Stub,17.6,EASTERN AFRICA
 Dayib Gurey,Somalia,1105996972.0,Stub,17.6,EASTERN AFRICA
 Suleiman Hassan Haddi,Somalia,1080321751.0,Stub,17.6,EASTERN AFRICA
 Suleiman Haglotosiye,Somalia,1113248839.0,Start,17.6,EASTERN AFRICA
-Hassan Ismail Yusuf,Somalia,1095741540.0,Start,17.6,EASTERN AFRICA
+Hassan Ismail Yusuf,Somalia,1115803831.0,Start,17.6,EASTERN AFRICA
 Abdiaziz Hussein Hassan,Somalia,1050666572.0,Stub,17.6,EASTERN AFRICA
 Hussein Mohamed Mohamoud,Somalia,1025215950.0,Stub,17.6,EASTERN AFRICA
 Ibrahim Megag Samatar,Somalia,1100656361.0,Start,17.6,EASTERN AFRICA
@@ -6868,7 +6868,7 @@ Chada Thaiseth,Thailand,1067189659.0,Stub,66.8,SOUTHEAST ASIA
 Charoen Suepsaeng,Thailand,1106944464.0,Stub,66.8,SOUTHEAST ASIA
 Chatchawal Kong-udom,Thailand,1067181115.0,Stub,66.8,SOUTHEAST ASIA
 Chob Yodkaew,Thailand,1067190492.0,Stub,66.8,SOUTHEAST ASIA
-Chonlanan Srikaew,Thailand,1115166646.0,Start,66.8,SOUTHEAST ASIA
+Chonlanan Srikaew,Thailand,1115873331.0,Start,66.8,SOUTHEAST ASIA
 Chuwit Chitsakul,Thailand,1067190867.0,Start,66.8,SOUTHEAST ASIA
 Hangthong Thammawattana,Thailand,1099504450.0,C,66.8,SOUTHEAST ASIA
 Khrong Chandawong,Thailand,1064263898.0,C,66.8,SOUTHEAST ASIA
@@ -6936,7 +6936,7 @@ Kenneth Lalla,Trinidad and Tobago,1098116781.0,Stub,1.4,CARIBBEAN
 Emmanuel Mzumbo Lazare,Trinidad and Tobago,1098116908.0,C,1.4,CARIBBEAN
 Randall Mitchell,Trinidad and Tobago,1108114284.0,Start,1.4,CARIBBEAN
 Arnold Piggott,Trinidad and Tobago,1071023974.0,Stub,1.4,CARIBBEAN
-"David Pitt, Baron Pitt of Hampstead",Trinidad and Tobago,1100838136.0,C,1.4,CARIBBEAN
+"David Pitt, Baron Pitt of Hampstead",Trinidad and Tobago,1115760392.0,C,1.4,CARIBBEAN
 Kevin Ramnarine,Trinidad and Tobago,1108968759.0,Stub,1.4,CARIBBEAN
 Sarran Teelucksingh,Trinidad and Tobago,1093142640.0,C,1.4,CARIBBEAN
 Ronald Jay Williams,Trinidad and Tobago,1066949906.0,C,1.4,CARIBBEAN
@@ -6980,7 +6980,7 @@ Mohamed Masmoudi,Tunisia,1061142712.0,Stub,11.8,NORTHERN AFRICA
 Mustapha Masmoudi,Tunisia,1090592661.0,Stub,11.8,NORTHERN AFRICA
 Tarak Mekki,Tunisia,1061580986.0,Start,11.8,NORTHERN AFRICA
 Ahmed Mestiri,Tunisia,1107510416.0,Stub,11.8,NORTHERN AFRICA
-Abir Moussi,Tunisia,1107177286.0,C,11.8,NORTHERN AFRICA
+Abir Moussi,Tunisia,1115897476.0,C,11.8,NORTHERN AFRICA
 Naceur Ben Jaâfar,Tunisia,994431648.0,C,11.8,NORTHERN AFRICA
 Nizar Ben Néji,Tunisia,1106907647.0,Start,11.8,NORTHERN AFRICA
 Mahmud Qabadu,Tunisia,1085035197.0,B,11.8,NORTHERN AFRICA
@@ -7044,7 +7044,7 @@ Hüseyin Sungur,Turkey,1109008689.0,Stub,85.2,WESTERN ASIA
 Hacı Garip Taner,Turkey,994034094.0,Start,85.2,WESTERN ASIA
 Kemal Tekden,Turkey,1065754568.0,Stub,85.2,WESTERN ASIA
 Mustafa Timisi,Turkey,1096296979.0,Start,85.2,WESTERN ASIA
-Tunalı Hilmi,Turkey,1114425456.0,C,85.2,WESTERN ASIA
+Tunalı Hilmi,Turkey,1115754313.0,C,85.2,WESTERN ASIA
 Turgut Okyay,Turkey,1098310527.0,Start,85.2,WESTERN ASIA
 Ziya Uğur,Turkey,1087058939.0,Stub,85.2,WESTERN ASIA
 Suut Kemal Yetkin,Turkey,1107549467.0,Start,85.2,WESTERN ASIA
@@ -7070,7 +7070,7 @@ Taom Tanukale,Tuvalu,1048466076.0,Start,0.0,OCEANIA
 Telavi Ministry,Tuvalu,1110459962.0,Start,0.0,OCEANIA
 Fiatau Penitala Teo,Tuvalu,1069888129.0,Start,0.0,OCEANIA
 Solofa Uota,Tuvalu,994787433.0,Stub,0.0,OCEANIA
-Ssendi Mosh Afrikan,Uganda,1115116952.0,Start,47.2,EASTERN AFRICA
+Ssendi Mosh Afrikan,Uganda,1115793550.0,Start,47.2,EASTERN AFRICA
 Apollo Ofwono,Uganda,1099627033.0,Stub,47.2,EASTERN AFRICA
 Christine Apolot,Uganda,1079944698.0,Start,47.2,EASTERN AFRICA
 Florence Akiiki Asiimwe,Uganda,1027457516.0,Start,47.2,EASTERN AFRICA
@@ -7136,7 +7136,7 @@ Igor Zhovkva,Ukraine,1114395779.0,Stub,41.0,EASTERN EUROPE
 Stepan Ivakhiv,Ukraine,1107524870.0,Start,41.0,EASTERN EUROPE
 Andrey Vladimirovich Ivanchuk,Ukraine,1114165727.0,Start,41.0,EASTERN EUROPE
 Konstantin Ivashchenko,Ukraine,1115427640.0,Start,41.0,EASTERN EUROPE
-Vasily Karazin,Ukraine,1115394447.0,C,41.0,EASTERN EUROPE
+Vasily Karazin,Ukraine,1115892102.0,C,41.0,EASTERN EUROPE
 Dmytro Kashchuk,Ukraine,1102174104.0,Start,41.0,EASTERN EUROPE
 Ihor Kharchenko,Ukraine,1112281498.0,Start,41.0,EASTERN EUROPE
 Klitschko brothers,Ukraine,1115675613.0,GA,41.0,EASTERN EUROPE
@@ -7165,7 +7165,7 @@ Mykola Romanyuk,Ukraine,1114107598.0,Start,41.0,EASTERN EUROPE
 Viacheslav Rublyov,Ukraine,1088155670.0,Start,41.0,EASTERN EUROPE
 Oleksandr Ruzhytskyi,Ukraine,1004085657.0,Start,41.0,EASTERN EUROPE
 Ihor Sahach,Ukraine,1112281519.0,Start,41.0,EASTERN EUROPE
-Volodymyr Saldo,Ukraine,1115428495.0,GA,41.0,EASTERN EUROPE
+Volodymyr Saldo,Ukraine,1115892772.0,GA,41.0,EASTERN EUROPE
 Volodymyr Serhiychuk,Ukraine,1101913378.0,Start,41.0,EASTERN EUROPE
 Oleh Shamshur,Ukraine,1062902165.0,Start,41.0,EASTERN EUROPE
 Serhiy Shefir,Ukraine,1114898320.0,Start,41.0,EASTERN EUROPE
@@ -7200,7 +7200,7 @@ Ahmed bin Saeed Al Maktoum,United Arab Emirates,1107590032.0,C,9.4,WESTERN ASIA
 Hamdan bin Rashid Al Maktoum,United Arab Emirates,1110689861.0,C,9.4,WESTERN ASIA
 Maktoum bin Rashid Al Maktoum,United Arab Emirates,1107670119.0,C,9.4,WESTERN ASIA
 Mohammed bin Khalifa Al Maktoum,United Arab Emirates,949517140.0,Stub,9.4,WESTERN ASIA
-Mohammed bin Rashid Al Maktoum,United Arab Emirates,1114185256.0,GA,9.4,WESTERN ASIA
+Mohammed bin Rashid Al Maktoum,United Arab Emirates,1115862687.0,GA,9.4,WESTERN ASIA
 Saeed bin Maktoum bin Hasher Al Maktoum,United Arab Emirates,1102931394.0,GA,9.4,WESTERN ASIA
 Hawaa Al Mansoori,United Arab Emirates,1110913016.0,GA,9.4,WESTERN ASIA
 Sultan bin Saeed Al Mansoori,United Arab Emirates,1092057370.0,Start,9.4,WESTERN ASIA
@@ -7303,7 +7303,7 @@ Evangelina García Prince,Venezuela,1108538199.0,Stub,28.3,SOUTH AMERICA
 Vladimir Augusto Gessen Rodríguez,Venezuela,1031792568.0,Stub,28.3,SOUTH AMERICA
 César González Martínez,Venezuela,1114086629.0,C,28.3,SOUTH AMERICA
 Luis Graterol Caraballo,Venezuela,1092954847.0,Start,28.3,SOUTH AMERICA
-Liborio Guarulla,Venezuela,1050249343.0,C,28.3,SOUTH AMERICA
+Liborio Guarulla,Venezuela,1115758389.0,C,28.3,SOUTH AMERICA
 Maryann Hanson,Venezuela,1036872382.0,Stub,28.3,SOUTH AMERICA
 Reinaldo Iturriza,Venezuela,1065821521.0,Stub,28.3,SOUTH AMERICA
 Andrés Izarra,Venezuela,1057179536.0,Start,28.3,SOUTH AMERICA
@@ -7389,7 +7389,7 @@ Murshed Al-Arashani,Yemen,950136845.0,Stub,33.7,WESTERN ASIA
 Mohamed al-Atifi,Yemen,1110144954.0,Stub,33.7,WESTERN ASIA
 Saleh Al-Aulaqi,Yemen,1065927920.0,Stub,33.7,WESTERN ASIA
 Yasser Al-Awadi,Yemen,1110510255.0,Stub,33.7,WESTERN ASIA
-Sagheer Hamoud Aziz,Yemen,1113985950.0,C,33.7,WESTERN ASIA
+Sagheer Hamoud Aziz,Yemen,1115898889.0,C,33.7,WESTERN ASIA
 Abdul Qadir Bajamal,Yemen,1104985248.0,Stub,33.7,WESTERN ASIA
 Mohammed Basindawa,Yemen,1105895571.0,Start,33.7,WESTERN ASIA
 Ali Al Bukhaiti,Yemen,1109047621.0,Stub,33.7,WESTERN ASIA
@@ -7414,12 +7414,12 @@ Ahmed al-Maisari,Yemen,1114348953.0,Stub,33.7,WESTERN ASIA
 Mohammed Ali Al-Maqdashi,Yemen,1115113088.0,Stub,33.7,WESTERN ASIA
 Hooria Mashhour,Yemen,1110863738.0,Start,33.7,WESTERN ASIA
 Huria Mashoor,Yemen,1111069538.0,Start,33.7,WESTERN ASIA
-Mutaher al-Masri,Yemen,1109834972.0,Stub,33.7,WESTERN ASIA
+Mutaher al-Masri,Yemen,1115731487.0,Stub,33.7,WESTERN ASIA
 Ahmad Awad bin Mubarak,Yemen,1114134493.0,Start,33.7,WESTERN ASIA
 Muhammad bin Yahya bin Muhammad,Yemen,1086283208.0,Stub,33.7,WESTERN ASIA
 Ali Muhammad Mujawar,Yemen,1106369055.0,Stub,33.7,WESTERN ASIA
 Nasr Taha Mustafa,Yemen,1110709467.0,Stub,33.7,WESTERN ASIA
-Abdul Qader Qahtan,Yemen,1110319682.0,Start,33.7,WESTERN ASIA
+Abdul Qader Qahtan,Yemen,1115729014.0,Start,33.7,WESTERN ASIA
 Mohamed Saleh Qara'a,Yemen,1074122152.0,Stub,33.7,WESTERN ASIA
 Mohamed Qubaty,Yemen,1113837714.0,C,33.7,WESTERN ASIA
 Rashad al-Alimi,Yemen,1114504154.0,Start,33.7,WESTERN ASIA
